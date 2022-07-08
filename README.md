@@ -10,7 +10,6 @@
 - 📫 How to reach me regarding Doorcast Application: Morris.Hunter@existmf.com 
 - 🌱 I’m currently programming mixed language mixed platform full stack development  
 - ⚡ Fun fact: To programmers, usually the Root is at the top of the tre<!--e. 
-- 
 <!--
 Markup language, yup. 
 -->
